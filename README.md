@@ -1,5 +1,8 @@
 ### Hi! I'm [Linno][website]
 
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=Globe&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwensente27.github.io)
+![Twitter Follow](https://img.shields.io/twitter/follow/linnolmfao?color=%231da1f2&logo=Twitter&style=for-the-badge)
+
 ## Junior Dev, Very much into robotics and computer science
 - 📍 The Philippines
 - ❤ Looking forward to make more projects
@@ -24,6 +27,12 @@
   <img align="left" alt="wesente27's Top Langs" src="https://github-readme-stats-self-rho.vercel.app/api/top-langs/?username=wensente27&langs_count=9&theme=dark" />
 
 </details>
+<br />
+
+---
+
+[![Spotify](https://now-playing-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/6s7egqw2p3cpjni6er2mocpsk)
+
 <br />
 
 [website]: https://wensente27.github.io
