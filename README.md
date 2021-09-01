@@ -1,7 +1,7 @@
 ### Hi! I'm [Linno][website]
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=Globe&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwensente27.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/linnolmfao?color=%231da1f2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%wensente27&screen_name=wensente27)
+[![Twitter Follow](https://img.shields.io/twitter/follow/linnolmfao?color=%231da1f2&logo=Twitter&style=for-the-badge)][twitter]
 
 ## Junior Dev, Very much into robotics and computer science
 - 📍 The Philippines
