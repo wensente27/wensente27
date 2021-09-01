@@ -17,9 +17,10 @@
 <details>
   <summary>📊 GitHub Stats</summary>
 
-  <img align="left" alt="wensente27's GitHub Stats" src="https://github-readme-stats-self-rho.vercel.app/api?username=wensente27&show_icons=true&hide_border=true" />
+  <img align="left" alt="wensente27's GitHub Stats" src="https://github-readme-stats-self-rho.vercel.app/api?username=wensente27&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
+<br />
 
 [website]: https://www.wensente27.github.io
 [twitter]: https://www.twitter.com/linnolmfao
