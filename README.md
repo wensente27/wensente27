@@ -30,6 +30,8 @@
 
 ---
 
+<br />
+
 [![Spotify](https://now-playing-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/6s7egqw2p3cpjni6er2mocpsk)
 <br />
 
