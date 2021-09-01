@@ -19,13 +19,13 @@
 
 ---
 
-  <summary>📊 GitHub Stats</summary>
+<details>
+   <summary>📊 GitHub Stats</summary>
 
   <img align="left" alt="wensente27's GitHub Stats" src="https://github-readme-stats-self-rho.vercel.app/api?username=wensente27&show_icons=true&hide_border=true&theme=dark" />
   
   <img align="left" alt="wesente27's Top Langs" src="https://github-readme-stats-self-rho.vercel.app/api/top-langs/?username=wensente27&langs_count=9&theme=dark" />
-
-<br />
+</details>
 <br />
 
 ---
