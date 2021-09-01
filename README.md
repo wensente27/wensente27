@@ -9,6 +9,8 @@
 - ❤ Hoping to have enough skill to contribute to open source soon
 - ❔ I'm into Guitar, and Cycling
 
+[![Spotify](https://now-playing-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/6s7egqw2p3cpjni6er2mocpsk)
+
 ### Socials:
 
 
@@ -26,13 +28,6 @@
   
   <img align="left" alt="wesente27's Top Langs" src="https://github-readme-stats-self-rho.vercel.app/api/top-langs/?username=wensente27&langs_count=9&theme=dark" />
 </details>
-<br />
-
----
-
-<br />
-
-[![Spotify](https://now-playing-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/6s7egqw2p3cpjni6er2mocpsk)
 <br />
 
 [website]: https://wensente27.github.io
