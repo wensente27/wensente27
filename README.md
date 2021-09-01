@@ -9,8 +9,8 @@
 ### Socials:
 
 [<img align="left" alt="linno" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="linno" width="22px" src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" />][twitter]
+[<img align="left" alt="linno" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
 
 [website]: https://www.wensente27.github.io
 [twitter]: https://www.twitter.com/linnolmfao
