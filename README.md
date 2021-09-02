@@ -17,6 +17,7 @@
 [<img align="left" alt="linno" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
 <br />
 <br />
+Contact me in Discord: nnerd#3325
 
 ---
 
