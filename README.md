@@ -1,13 +1,9 @@
-### Hi! I'm [Linno][website]
+### [Linno][website]
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=Globe&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwensente27.github.io)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/linnolmfao?color=%231da1f2&logo=Twitter&style=for-the-badge)][twitter]
 
 ## Junior Dev, Very much into robotics and computer science
-- 📍 The Philippines
-- ❤ Looking forward to make more projects
-- ❤ Hoping to have enough skill to contribute to open source soon
-- ❔ I'm into Guitar, and Cycling
 
 [![Spotify](https://now-playing-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/6s7egqw2p3cpjni6er2mocpsk)
 
