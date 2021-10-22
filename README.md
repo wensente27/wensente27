@@ -18,6 +18,6 @@ Contact me in Discord: nnerd#4573
 ---
 <br />
 
-[website]: https://wensente27.github.io
+[website]: https://linno.netlify.app
 [twitter]: https://www.twitter.com/linnolmfao
 [youtube]: https://www.youtube.com/channel/UC9siaJe1g0SS7AS4Rc-rOWg
