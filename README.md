@@ -1,24 +1,7 @@
-### [Linno][website]
+# Hi I'm eli and I like women <img width="50" align="center" src="https://i.imgur.com/TsTeHxd.png" />
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&logo=Globe&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwensente27.github.io)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/linnolmfao?color=%231da1f2&logo=Twitter&style=for-the-badge)][twitter]
-[![Last.fm](https://img.shields.io/badge/last.fm-linno-red?style=for-the-badge)](https://www.last.fm/user/linnolmfao)
+I'm from The <img width="20" height="20" align="center" src="https://flagicons.lipis.dev/flags/4x3/ph.svg" /> and I do front-end during my free time : )
 
-## Junior Dev, Very much into robotics and computer science
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=wensente27&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wensente27&theme=dark&hide_border=true&layout=compact">
 
-[![Spotify](https://now-playing-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/6s7egqw2p3cpjni6er2mocpsk)
-
-### Socials:
-
-[<img align="left" alt="linno" width="22px" src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" />][twitter]
-[<img align="left" alt="linno" width="22px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />][youtube]
-<br />
-<br />
-Contact me in Discord: nafall#9252
-
----
-<br />
-
-[website]: https://nnou.vercel.app
-[twitter]: https://www.twitter.com/linnolmfao
-[youtube]: https://www.youtube.com/channel/UC9siaJe1g0SS7AS4Rc-rOWg
